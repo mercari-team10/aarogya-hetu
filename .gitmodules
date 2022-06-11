@@ -1,0 +1,30 @@
+[submodule "calendar"]
+	path = microservice_calendar
+	url = git@github.com:mercari-team10/LP_MERCARI_MS_calendar_T10.git
+[submodule "bills"]
+	path = microservice_bills
+	url = git@github.com:mercari-team10/LP_MERCARI_MS_bills_T10.git
+[submodule "appointments"]
+	path = microservice_appointments
+	url = git@github.com:mercari-team10/LP_MERCARI_MS_appointments_T10.git
+[submodule "hospitals"]
+	path = microservice_hospitals
+	url = git@github.com:mercari-team10/LP_MERCARI_MS_hospitals_T10.git
+[submodule "nhid"]
+	path = microservice_nhid
+	url = git@github.com:mercari-team10/LP_MERCARI_MS_nhid_T10.git
+[submodule "suggestions"]
+	path = microservice_suggestions
+	url = git@github.com:mercari-team10/LP_MERCARI_MS_suggestions_T10.git
+[submodule "configurations"]
+	path = configurations
+	url = git@github.com:mercari-team10/LP_MERCARI_configurations_T10.git
+[submodule "frontend_doctors"]
+	path = frontend_doctors
+	url = git@github.com:mercari-team10/LP_MERCARI_FRONTEND_doctors_T10.git
+[submodule "frontend_hospitals"]
+	path = frontend_hospitals
+	url = git@github.com:mercari-team10/LP_MERCARI_FRONTEND_hospitals_T10.git
+[submodule "frontend_mobileapp"]
+	path = frontend_mobileapp
+	url = git@github.com:mercari-team10/LP_MERCARI_FRONTEND_mobileapp_T10.git
